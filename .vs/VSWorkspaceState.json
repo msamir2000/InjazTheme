@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cms",
+    "\\cms\\static",
+    "\\cms\\static\\images",
+    "\\lms",
+    "\\lms\\static",
+    "\\lms\\templates",
+    "\\screenshots"
+  ],
+  "SelectedNode": "\\lms\\templates\\index_overlay.html",
+  "PreviewInSolutionExplorer": false
+}
